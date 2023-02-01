@@ -1,0 +1,15 @@
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+D:\картинки учёба\Язык C#\практикка6\task4\bin\Debug\net6.0\task4.exe
+D:\картинки учёба\Язык C#\практикка6\task4\bin\Debug\net6.0\task4.deps.json
+D:\картинки учёба\Язык C#\практикка6\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+D:\картинки учёба\Язык C#\практикка6\task4\bin\Debug\net6.0\task4.dll
+D:\картинки учёба\Язык C#\практикка6\task4\bin\Debug\net6.0\task4.pdb
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\task4.dll
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\refint\task4.dll
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\task4.pdb
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+D:\картинки учёба\Язык C#\практикка6\task4\obj\Debug\net6.0\ref\task4.dll
